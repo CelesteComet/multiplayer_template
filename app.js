@@ -45,7 +45,7 @@ var port = process.env.PORT || 8080;
 
  
 http.listen(port, function(){
-    console.log( "Listening on " + ip_address + ", server_port " + port );
+    
 });
 
 /*
